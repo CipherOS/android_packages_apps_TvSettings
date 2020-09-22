@@ -2833,4 +2833,8 @@
     <string name="energy_mode_eco_hint">Note that this mode may increase the power consumption of the device.</string>
     <!-- Title for energy mode selection confirmation dialog -->
     <string name="energy_modes_confirmation_title">Enable \"<xliff:g id="energyModeName" example="Essential network features">%s</xliff:g>\"</string>
+
+    <!-- Adb root access -->
+    <string name="enable_adb_root">Rooted debugging</string>
+    <string name="enable_adb_root_summary">Allow running Android debugging as root</string>
 </resources>
